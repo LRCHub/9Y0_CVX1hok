@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜は仄か",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-20T07:30:59.261780Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜は仄か",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_夜は仄か_Eve.txt"
+    }
+  ]
+}
